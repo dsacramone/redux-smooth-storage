@@ -1,0 +1,31 @@
+{
+  "name": "redux-smooth-storage",
+  "version": "1.0.0",
+  "description": "Simple & Succinct localStorage or sessonStorage ability for react redux app. Middleware",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsacramone/redux-smooth-storage.git"
+  },
+  "keywords": [
+    "local",
+    "storage",
+    "localStorage",
+    "sessionStorage",
+    "session",
+    "storage",
+    "redux",
+    "react",
+    "redux",
+    "middleware"
+  ],
+  "author": "Dean Sacramone <deansacramone@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsacramone/redux-smooth-storage/issues"
+  },
+  "homepage": "https://github.com/dsacramone/redux-smooth-storage#readme"
+}
