@@ -100,6 +100,9 @@ const middleware = process.env.NODE_ENV === 'production' ?
 
 please note: I am using "thunk, logger()", for example purposes only as "other" middleware. Your own app will have others.
 
+#TODO:
+  Run storage on promises, for situations in where larger datasets are used.
+
 
     
 
